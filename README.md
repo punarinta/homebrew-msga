@@ -16,6 +16,6 @@ app keeps itself up to date.
 
 ## Downloads
 
-Every [release](https://github.com/punarinta/homebrew-msga/releases) carries
-the macOS DMG, the Linux x86_64 binary and the Windows x86_64 executable, each
-with a `.manifest` holding its version and SHA-256.
+Release binaries are attached to the
+[releases](https://github.com/punarinta/homebrew-msga/releases) here, each with
+a `.manifest` holding its version and SHA-256.
