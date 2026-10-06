@@ -1,6 +1,6 @@
 cask "msga" do
-  version "37"
-  sha256 "5d7b61f2e0e091427f6813fdf123d940ab42d78247cd7168e37603831910d84c"
+  version "38"
+  sha256 "328fa7760e8ae966d5c6b50ee4776d69492b4da4c20d2a4348ff46bb1ff5ba10"
 
   url "https://github.com/punarinta/homebrew-msga/releases/download/v#{version}/msga-macos-arm64.dmg"
   name "msga"
