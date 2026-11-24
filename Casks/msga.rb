@@ -2,8 +2,8 @@
 # release.yml) into punarinta/homebrew-msga as Casks/msga.rb on each release:
 # the version is "<MSGA_VERSION>,<release tag>", the hash is the DMG's.
 cask "msga" do
-  version "47,2026-11-19"
-  sha256 "bff0cfaf33023674b6a7a441a5e7b447af418ddfb621b9c3d07129f352b9935a"
+  version "48,2026-11-24"
+  sha256 "d8e0757c841d8330fb2412ec73324bca27e17132df01cfc13d831f6c3d84400b"
 
   url "https://github.com/punarinta/make-slack-great-again/releases/download/#{version.csv.second}/msga-macos-arm64.dmg"
   name "msga"
